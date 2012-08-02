@@ -7,7 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 
 @interface ViewController : UIViewController
+- (IBAction)playNote:(UIButton *)sender;
+- (IBAction)stopNote:(UIButton *)sender;
+- (IBAction)playENote:(UIButton *)sender;
+- (IBAction)stopENote:(UIButton *)sender;
 
 @end

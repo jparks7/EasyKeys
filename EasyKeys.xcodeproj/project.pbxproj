@@ -16,6 +16,20 @@
 		5BE8F8E315CAD73700B53D5D /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8E115CAD73700B53D5D /* MainStoryboard_iPhone.storyboard */; };
 		5BE8F8E615CAD73700B53D5D /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8E415CAD73700B53D5D /* MainStoryboard_iPad.storyboard */; };
 		5BE8F8E915CAD73700B53D5D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE8F8E815CAD73700B53D5D /* ViewController.m */; };
+		5BE8F8FC15CADA9500B53D5D /* A.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8EF15CADA9500B53D5D /* A.m4a */; };
+		5BE8F8FD15CADA9500B53D5D /* Ab.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F015CADA9500B53D5D /* Ab.m4a */; };
+		5BE8F8FE15CADA9500B53D5D /* B.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F115CADA9500B53D5D /* B.m4a */; };
+		5BE8F8FF15CADA9500B53D5D /* Bb.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F215CADA9500B53D5D /* Bb.m4a */; };
+		5BE8F90015CADA9500B53D5D /* C.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F315CADA9500B53D5D /* C.m4a */; };
+		5BE8F90115CADA9500B53D5D /* C'.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F415CADA9500B53D5D /* C'.m4a */; };
+		5BE8F90215CADA9500B53D5D /* D.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F515CADA9500B53D5D /* D.m4a */; };
+		5BE8F90315CADA9500B53D5D /* Db.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F615CADA9500B53D5D /* Db.m4a */; };
+		5BE8F90415CADA9500B53D5D /* E.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F715CADA9500B53D5D /* E.m4a */; };
+		5BE8F90515CADA9500B53D5D /* Eb.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F815CADA9500B53D5D /* Eb.m4a */; };
+		5BE8F90615CADA9500B53D5D /* F.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8F915CADA9500B53D5D /* F.m4a */; };
+		5BE8F90715CADA9500B53D5D /* G.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8FA15CADA9500B53D5D /* G.m4a */; };
+		5BE8F90815CADA9500B53D5D /* Gb.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8F8FB15CADA9500B53D5D /* Gb.m4a */; };
+		5BE8F90A15CADE7B00B53D5D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BE8F90915CADE7B00B53D5D /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +37,30 @@
 		5BE8F8CF15CAD73600B53D5D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5BE8F8D115CAD73600B53D5D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5BE8F8D315CAD73600B53D5D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5BE8F8D715CAD73600B53D5D /* EasyKeys-Info.plist */ = {isa = PBXFileReference; path = "EasyKeys-Info.plist"; sourceTree = "<group>"; };
+		5BE8F8D715CAD73600B53D5D /* EasyKeys-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EasyKeys-Info.plist"; sourceTree = "<group>"; };
 		5BE8F8D915CAD73700B53D5D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5BE8F8DB15CAD73700B53D5D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5BE8F8DD15CAD73700B53D5D /* EasyKeys-Prefix.pch */ = {isa = PBXFileReference; path = "EasyKeys-Prefix.pch"; sourceTree = "<group>"; };
-		5BE8F8DE15CAD73700B53D5D /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		5BE8F8DD15CAD73700B53D5D /* EasyKeys-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EasyKeys-Prefix.pch"; sourceTree = "<group>"; };
+		5BE8F8DE15CAD73700B53D5D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5BE8F8DF15CAD73700B53D5D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		5BE8F8E215CAD73700B53D5D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		5BE8F8E515CAD73700B53D5D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		5BE8F8E715CAD73700B53D5D /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		5BE8F8E715CAD73700B53D5D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		5BE8F8E815CAD73700B53D5D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		5BE8F8EF15CADA9500B53D5D /* A.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = A.m4a; sourceTree = "<group>"; };
+		5BE8F8F015CADA9500B53D5D /* Ab.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ab.m4a; sourceTree = "<group>"; };
+		5BE8F8F115CADA9500B53D5D /* B.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = B.m4a; sourceTree = "<group>"; };
+		5BE8F8F215CADA9500B53D5D /* Bb.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bb.m4a; sourceTree = "<group>"; };
+		5BE8F8F315CADA9500B53D5D /* C.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = C.m4a; sourceTree = "<group>"; };
+		5BE8F8F415CADA9500B53D5D /* C'.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "C'.m4a"; sourceTree = "<group>"; };
+		5BE8F8F515CADA9500B53D5D /* D.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = D.m4a; sourceTree = "<group>"; };
+		5BE8F8F615CADA9500B53D5D /* Db.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Db.m4a; sourceTree = "<group>"; };
+		5BE8F8F715CADA9500B53D5D /* E.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = E.m4a; sourceTree = "<group>"; };
+		5BE8F8F815CADA9500B53D5D /* Eb.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Eb.m4a; sourceTree = "<group>"; };
+		5BE8F8F915CADA9500B53D5D /* F.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = F.m4a; sourceTree = "<group>"; };
+		5BE8F8FA15CADA9500B53D5D /* G.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = G.m4a; sourceTree = "<group>"; };
+		5BE8F8FB15CADA9500B53D5D /* Gb.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Gb.m4a; sourceTree = "<group>"; };
+		5BE8F90915CADE7B00B53D5D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BE8F90A15CADE7B00B53D5D /* AVFoundation.framework in Frameworks */,
 				5BE8F8D015CAD73600B53D5D /* UIKit.framework in Frameworks */,
 				5BE8F8D215CAD73600B53D5D /* Foundation.framework in Frameworks */,
 				5BE8F8D415CAD73600B53D5D /* CoreGraphics.framework in Frameworks */,
@@ -52,6 +81,7 @@
 		5BE8F8C015CAD73600B53D5D = {
 			isa = PBXGroup;
 			children = (
+				5BE8F90915CADE7B00B53D5D /* AVFoundation.framework */,
 				5BE8F8D515CAD73600B53D5D /* EasyKeys */,
 				5BE8F8CE15CAD73600B53D5D /* Frameworks */,
 				5BE8F8CC15CAD73600B53D5D /* Products */,
@@ -79,6 +109,19 @@
 		5BE8F8D515CAD73600B53D5D /* EasyKeys */ = {
 			isa = PBXGroup;
 			children = (
+				5BE8F8EF15CADA9500B53D5D /* A.m4a */,
+				5BE8F8F015CADA9500B53D5D /* Ab.m4a */,
+				5BE8F8F115CADA9500B53D5D /* B.m4a */,
+				5BE8F8F215CADA9500B53D5D /* Bb.m4a */,
+				5BE8F8F315CADA9500B53D5D /* C.m4a */,
+				5BE8F8F415CADA9500B53D5D /* C'.m4a */,
+				5BE8F8F515CADA9500B53D5D /* D.m4a */,
+				5BE8F8F615CADA9500B53D5D /* Db.m4a */,
+				5BE8F8F715CADA9500B53D5D /* E.m4a */,
+				5BE8F8F815CADA9500B53D5D /* Eb.m4a */,
+				5BE8F8F915CADA9500B53D5D /* F.m4a */,
+				5BE8F8FA15CADA9500B53D5D /* G.m4a */,
+				5BE8F8FB15CADA9500B53D5D /* Gb.m4a */,
 				5BE8F8DE15CAD73700B53D5D /* AppDelegate.h */,
 				5BE8F8DF15CAD73700B53D5D /* AppDelegate.m */,
 				5BE8F8E115CAD73700B53D5D /* MainStoryboard_iPhone.storyboard */,
@@ -154,6 +197,19 @@
 				5BE8F8DA15CAD73700B53D5D /* InfoPlist.strings in Resources */,
 				5BE8F8E315CAD73700B53D5D /* MainStoryboard_iPhone.storyboard in Resources */,
 				5BE8F8E615CAD73700B53D5D /* MainStoryboard_iPad.storyboard in Resources */,
+				5BE8F8FC15CADA9500B53D5D /* A.m4a in Resources */,
+				5BE8F8FD15CADA9500B53D5D /* Ab.m4a in Resources */,
+				5BE8F8FE15CADA9500B53D5D /* B.m4a in Resources */,
+				5BE8F8FF15CADA9500B53D5D /* Bb.m4a in Resources */,
+				5BE8F90015CADA9500B53D5D /* C.m4a in Resources */,
+				5BE8F90115CADA9500B53D5D /* C'.m4a in Resources */,
+				5BE8F90215CADA9500B53D5D /* D.m4a in Resources */,
+				5BE8F90315CADA9500B53D5D /* Db.m4a in Resources */,
+				5BE8F90415CADA9500B53D5D /* E.m4a in Resources */,
+				5BE8F90515CADA9500B53D5D /* Eb.m4a in Resources */,
+				5BE8F90615CADA9500B53D5D /* F.m4a in Resources */,
+				5BE8F90715CADA9500B53D5D /* G.m4a in Resources */,
+				5BE8F90815CADA9500B53D5D /* Gb.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
